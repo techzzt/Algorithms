@@ -5,6 +5,8 @@ Created on Wed Apr 20 15:10:23 2022
 @author: keun
 """
 
+# https://programmers.co.kr/learn/courses/30/lessons/81302 
+
 from itertools import combinations 
 
 def solution(places):

@@ -19,4 +19,4 @@ Algorithm
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [정답 코드](../0x09/solutions/7576.cpp) |
 | 연습 문제 | 2146 | [다리만들기](https://www.acmicpc.net/problem/2146) |  |
-| 연습 문제 | 5427 | [](https://www.acmicpc.net/problem/5427) |  |
+| 연습 문제 | 5427 | [불](https://www.acmicpc.net/problem/5427) |  |

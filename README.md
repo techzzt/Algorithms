@@ -21,4 +21,5 @@ Algorithm
 | 연습 문제 | 2146 | [다리만들기](https://www.acmicpc.net/problem/2146) |  |
 | 연습 문제 | 5427 | [불](https://www.acmicpc.net/problem/5427) |  |
 | 연습 문제 | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) |  |
+| 연습 문제 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) |  |
 
